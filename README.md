@@ -3,14 +3,22 @@
 
 + 1 TwoSum
 + 2 AddTwoNumbers
++ 7 ReverseInteger
 + 9 PalindromNumber
 + 20 ValidParentheses
++ 21 MergeSortedLists
++ 26 RemoveDuplicates
++ 27 RemoveElement
++ 35 SearchInsertPosition
 + 53 MaxSubarray
++ 56 MergeIntervals
 + 62 UniquePaths
 + 63 UniquePaths2
 + 66 PlusOne
 + 70 ClimbingStairs
++ 83 RemoveDupSortedList
 + 94 BSTInorder
++ 98 ValidateBST
 + 100 SameTree
 + 101 SymmetricTree
 + 102 BSTLevelOrder
@@ -25,27 +33,43 @@
 + 141 LLCycle
 + 144 BSTPreOrder
 + 145 BSTPostOrder
++ 162 FindPeakElem
 + 167 TwoSum2
-+ 169_MajorityElem
-+ 172_FactTrailZeroes
++ 169 MajorityElem
++ 172 FactTrailZeroes
++ 190 ReverseBits
 + 191 Num1Bits
 + 202 HappyNumber
++ 203 RemLinkedListElems
 + 206 RevLL
-+ 231_PowOf2
++ 217 ContainsDup
++ 219 ContainsDup2
++ 226 InvBST
++ 228 SummaryRanges
++ 231 PowOf2
++ 235 LCAOfBST
++ 237 DelNodeLL
++ 258 AddDigits
 + 263 UglyNumber
-+ 326_PowOf3
-+ 342_PowOf4 
-+ 367_ValidPerfectSquare
-+ 485_MaxConsecutive1
++ 268 MissingNumber
++ 278 FirstBadNumber
++ 283 MoveZeroes
++ 326 PowOf3
++ 338 CountingBits
++ 342 PowOf4 
++ 349 IntersectionOfArrays
++ 367 ValidPerfectSquare
++ 412 FizzBuzz
++ 485 MaxConsecutive1
 + 701 InsertBST
 + 797 AllPathsS2T
 + 1252 CellOddValues
 + 1544 MakeStrGreat
-+ 1550_2ConsecutiveOdds
-+ 1572_MatrixDiagonalSum
++ 1550 2ConsecutiveOdds
++ 1572 MatrixDiagonalSum
 + 1619 MeanArrayRemElem
 + 1624 LargSubStr
 + 1662 2StringEquivalent
 + 1630 ArithmeticSubarray
-+ 1748_SumUniqueElems
++ 1748 SumUniqueElems
 + 1887 RedOps
