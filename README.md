@@ -15,7 +15,9 @@
 + 62 UniquePaths
 + 63 UniquePaths2
 + 66 PlusOne
++ 69 Sqrt(x)
 + 70 ClimbingStairs
++ 72 EditDistance (H)
 + 83 RemoveDupSortedList
 + 94 BSTInorder
 + 98 ValidateBST
@@ -42,10 +44,12 @@
 + 202 HappyNumber
 + 203 RemLinkedListElems
 + 206 RevLL
++ 215 KthLargestInArray 
 + 217 ContainsDup
 + 219 ContainsDup2
 + 226 InvBST
 + 228 SummaryRanges
++ 230 KSmallestBST 
 + 231 PowOf2
 + 235 LCAOfBST
 + 237 DelNodeLL
@@ -61,9 +65,18 @@
 + 367 ValidPerfectSquare
 + 412 FizzBuzz
 + 485 MaxConsecutive1
++ 575 DistCandies 
 + 701 InsertBST
++ 746 MinCostClimbingStairs 
 + 797 AllPathsS2T
++ 852 PeakIndexMountainArray 
++ 938 RangeSumBST 
++ 997 TownJudge 
++ 1047 RemAdjacentDupsString 
++ 1304 NSum0
++ 1480 RunningSum1D 
 + 1252 CellOddValues
++ 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
 + 1572 MatrixDiagonalSum
