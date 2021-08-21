@@ -65,6 +65,7 @@
 + 367 ValidPerfectSquare
 + 412 FizzBuzz
 + 485 MaxConsecutive1
++ 543_BSTDiameter.cpp
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
