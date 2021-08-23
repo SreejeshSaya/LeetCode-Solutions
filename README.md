@@ -10,6 +10,7 @@
 + 26 RemoveDuplicates
 + 27 RemoveElement
 + 35 SearchInsertPosition
++ 46 Permutations
 + 53 MaxSubarray
 + 56 MergeIntervals
 + 62 UniquePaths
@@ -58,14 +59,17 @@
 + 268 MissingNumber
 + 278 FirstBadNumber
 + 283 MoveZeroes
++ 287 FindDupNumber
++ 322 CoinChange
 + 326 PowOf3
 + 338 CountingBits
 + 342 PowOf4 
 + 349 IntersectionOfArrays
 + 367 ValidPerfectSquare
 + 412 FizzBuzz
++ 442 FindAllDups
 + 485 MaxConsecutive1
-+ 543_BSTDiameter.cpp
++ 543_BSTDiameter
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
@@ -80,10 +84,12 @@
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
++ 1561 MaxCoins
 + 1572 MatrixDiagonalSum
 + 1619 MeanArrayRemElem
 + 1624 LargSubStr
 + 1662 2StringEquivalent
 + 1630 ArithmeticSubarray
 + 1748 SumUniqueElems
++ 1828 PointsInsideCircle
 + 1887 RedOps
