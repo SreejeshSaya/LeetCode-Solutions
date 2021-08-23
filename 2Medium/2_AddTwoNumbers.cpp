@@ -4,15 +4,11 @@ public:
 		int carry = 0;
 		ListNode preHead(0), *p = &preHead;
 
-		while (l1 || l2 || mem) {
+		while (l1 || l2 || carry) {
 			int d1 = 0;
 			int d2 = 0;
-			if (l1) {
-				d1 = (l1->val); // gets digit1
-			}
-			if (l2) {
-				d2 = (l2->val); // gets digit2
-			}
+			if (l1) d1 = (l1->val);
+			if (l2) d2 = (l2->val);
 			
 			int sum = d1+d2+carry;
 			
@@ -24,12 +20,8 @@ public:
 
 			p->next = new ListNode(sum);
 
-			if (l1) {
-				l1 = l1->next;
-			}
-			if (l2) {
-				l2 = l2->next;
-			}
+			if (l1) l1 = l1->next;
+			if (l2) l2 = l2->next;
 			p = p->next;
 			
 		}
