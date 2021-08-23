@@ -19,6 +19,7 @@
 + 69 Sqrt(x)
 + 70 ClimbingStairs
 + 72 EditDistance (H)
++ 75 SortColors
 + 83 RemoveDupSortedList
 + 94 BSTInorder
 + 98 ValidateBST
@@ -42,8 +43,10 @@
 + 172 FactTrailZeroes
 + 190 ReverseBits
 + 191 Num1Bits
++ 200 IslandNumber
 + 202 HappyNumber
 + 203 RemLinkedListElems
++ 204 CountPrimes
 + 206 RevLL
 + 215 KthLargestInArray 
 + 217 ContainsDup
@@ -58,21 +61,26 @@
 + 263 UglyNumber
 + 268 MissingNumber
 + 278 FirstBadNumber
++ 279 PerfectSquares
 + 283 MoveZeroes
 + 287 FindDupNumber
++ 319 BulbSwitcher
 + 322 CoinChange
 + 326 PowOf3
 + 338 CountingBits
 + 342 PowOf4 
 + 349 IntersectionOfArrays
++ 371 TwoIntSum
 + 367 ValidPerfectSquare
 + 412 FizzBuzz
 + 442 FindAllDups
++ 455 AssignCookies
 + 485 MaxConsecutive1
 + 543_BSTDiameter
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
++ 775 LocalGlobalInversions
 + 797 AllPathsS2T
 + 852 PeakIndexMountainArray 
 + 938 RangeSumBST 
