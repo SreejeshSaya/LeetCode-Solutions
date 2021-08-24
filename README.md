@@ -76,7 +76,7 @@
 + 442 FindAllDups
 + 455 AssignCookies
 + 485 MaxConsecutive1
-+ 543_BSTDiameter
++ 543 BSTDiameter
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
@@ -86,9 +86,9 @@
 + 938 RangeSumBST 
 + 997 TownJudge 
 + 1047 RemAdjacentDupsString 
++ 1252 CellOddValues
 + 1304 NSum0
 + 1480 RunningSum1D 
-+ 1252 CellOddValues
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
@@ -96,8 +96,8 @@
 + 1572 MatrixDiagonalSum
 + 1619 MeanArrayRemElem
 + 1624 LargSubStr
-+ 1662 2StringEquivalent
 + 1630 ArithmeticSubarray
++ 1662 2StringEquivalent
 + 1748 SumUniqueElems
 + 1828 PointsInsideCircle
 + 1887 RedOps
