@@ -11,8 +11,10 @@
 + 27 RemoveElement
 + 35 SearchInsertPosition
 + 46 Permutations
++ 48 RotateImage
 + 53 MaxSubarray
 + 56 MergeIntervals
++ 58 LastWordLength
 + 62 UniquePaths
 + 63 UniquePaths2
 + 66 PlusOne
@@ -35,6 +37,7 @@
 + 121 BuySellStock
 + 136 SingleNumber
 + 141 LLCycle
++ 142_LLCycle2
 + 144 BSTPreOrder
 + 145 BSTPostOrder
 + 162 FindPeakElem
@@ -76,19 +79,23 @@
 + 442 FindAllDups
 + 455 AssignCookies
 + 485 MaxConsecutive1
++ 530 MinDiffBST
 + 543 BSTDiameter
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
 + 775 LocalGlobalInversions
++ 783 MinDistBST
 + 797 AllPathsS2T
 + 852 PeakIndexMountainArray 
 + 938 RangeSumBST 
 + 997 TownJudge 
 + 1047 RemAdjacentDupsString 
++ 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
 + 1480 RunningSum1D 
++ 1488_AvoidFloodCity
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
@@ -98,6 +105,8 @@
 + 1624 LargSubStr
 + 1630 ArithmeticSubarray
 + 1662 2StringEquivalent
++ 1742 MaxBallsInBox
 + 1748 SumUniqueElems
++ 1769 MinOpsAllBallsEachBox
 + 1828 PointsInsideCircle
 + 1887 RedOps
