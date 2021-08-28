@@ -5,10 +5,12 @@
 + 2 AddTwoNumbers
 + 7 ReverseInteger
 + 9 PalindromNumber
++ 14 LongestCommonPrefix
 + 20 ValidParentheses
 + 21 MergeSortedLists
 + 26 RemoveDuplicates
 + 27 RemoveElement
++ 32 LongestValidParentheses
 + 35 SearchInsertPosition
 + 46 Permutations
 + 48 RotateImage
@@ -31,18 +33,23 @@
 + 103 BSTZigZagOrder
 + 104 BSTMaxDepth
 + 107 BSTLevelOrder2
++ 108 SortedArr2BST
 + 110 BSTBalanced
 + 111 BSTMinDepth
 + 112 PathSum
 + 121 BuySellStock
++ 122 BuySellStock2
 + 136 SingleNumber
 + 141 LLCycle
-+ 142_LLCycle2
++ 142 LLCycle2
 + 144 BSTPreOrder
 + 145 BSTPostOrder
++ 160 Intersection2LL
 + 162 FindPeakElem
 + 167 TwoSum2
++ 168 ExcelNum2Title
 + 169 MajorityElem
++ 171 ExcelTitle2Num
 + 172 FactTrailZeroes
 + 190 ReverseBits
 + 191 Num1Bits
@@ -73,8 +80,10 @@
 + 338 CountingBits
 + 342 PowOf4 
 + 349 IntersectionOfArrays
-+ 371 TwoIntSum
 + 367 ValidPerfectSquare
++ 371 TwoIntSum
++ 374 GuessNumber
++ 383 RansomNote
 + 412 FizzBuzz
 + 442 FindAllDups
 + 455 AssignCookies
@@ -95,7 +104,7 @@
 + 1252 CellOddValues
 + 1304 NSum0
 + 1480 RunningSum1D 
-+ 1488_AvoidFloodCity
++ 1488 AvoidFloodCity
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
@@ -107,6 +116,13 @@
 + 1662 2StringEquivalent
 + 1742 MaxBallsInBox
 + 1748 SumUniqueElems
++ 1758 AlternatingBinary
 + 1769 MinOpsAllBallsEachBox
++ 1791 CenterStarGraph
++ 1827 MinOpsArrayInc
 + 1828 PointsInsideCircle
++ 1832 Pangram
++ 1844 ReplaceDigitsChar
++ 1859 SortSentence
 + 1887 RedOps
++ 1929 ConcatArray
