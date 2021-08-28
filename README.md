@@ -67,6 +67,7 @@
 + 231 PowOf2
 + 235 LCAOfBST
 + 237 DelNodeLL
++ 242 ValidAnagram
 + 258 AddDigits
 + 263 UglyNumber
 + 268 MissingNumber
@@ -83,13 +84,20 @@
 + 367 ValidPerfectSquare
 + 371 TwoIntSum
 + 374 GuessNumber
++ 377 CombinationSum4
 + 383 RansomNote
 + 412 FizzBuzz
 + 442 FindAllDups
 + 455 AssignCookies
++ 475 Heaters
 + 485 MaxConsecutive1
++ 516 LongestPalindromicSubsequence
++ 518 CoinChange2
++ 526 Beautiful Arrangement
 + 530 MinDiffBST
++ 540 SingleElementSortedArr
 + 543 BSTDiameter
++ 547 NumProvinces
 + 575 DistCandies 
 + 701 InsertBST
 + 746 MinCostClimbingStairs 
@@ -103,8 +111,16 @@
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
++ 1374 CharactersOddCounts
++ 1394 LuckyIntegerArray
++ 1431 GreatestNumberCandies
++ 1436 DestinationCity
++ 1446 ConsecutiveCharacters
++ 1464 MaxiumumProductofTwoElements
 + 1480 RunningSum1D 
++ 1486 XORArray
 + 1488 AvoidFloodCity
++ 1512 GoodPairs
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
@@ -114,6 +130,12 @@
 + 1624 LargSubStr
 + 1630 ArithmeticSubarray
 + 1662 2StringEquivalent
++ 1672 RichestCustomerWealth
++ 1688 CountMatchesTournament
++ 1710 MaximumUnitsTruck
++ 1716 CalculateMoneyLeetcodeBank
++ 1725 RectanglesLargestSquare
++ 1732 HighestAltitude
 + 1742 MaxBallsInBox
 + 1748 SumUniqueElems
 + 1758 AlternatingBinary
@@ -125,4 +147,5 @@
 + 1844 ReplaceDigitsChar
 + 1859 SortSentence
 + 1887 RedOps
++ 1920 BuildArrayPermutation
 + 1929 ConcatArray
