@@ -1,5 +1,4 @@
 # LeetCode-Solutions
-## Last Updated: 15 Aug 2021
 
 + 1 TwoSum
 + 2 AddTwoNumbers
@@ -68,6 +67,7 @@
 + 235 LCAOfBST
 + 237 DelNodeLL
 + 242 ValidAnagram
++ 257 BTPaths
 + 258 AddDigits
 + 263 UglyNumber
 + 268 MissingNumber
@@ -80,34 +80,45 @@
 + 326 PowOf3
 + 338 CountingBits
 + 342 PowOf4 
++ 344 ReverseString
 + 349 IntersectionOfArrays
 + 367 ValidPerfectSquare
 + 371 TwoIntSum
 + 374 GuessNumber
 + 377 CombinationSum4
 + 383 RansomNote
++ 387 FirstUniqueCharacter
++ 389 FindDifference
++ 409 LongestPalindrome
 + 412 FizzBuzz
++ 414 ThirdMaximumNumber
++ 441 ArrangingCoins
 + 442 FindAllDups
 + 455 AssignCookies
++ 461 HammingDistance
 + 475 Heaters
 + 485 MaxConsecutive1
-+ 516 LongestPalindromicSubsequence
++ 507 PerfectNumber
++ 509 FibonacciNumber
 + 518 CoinChange2
-+ 526 Beautiful Arrangement
++ 525 ContiguousArray
++ 526 BeautifulArrangement
 + 530 MinDiffBST
 + 540 SingleElementSortedArr
 + 543 BSTDiameter
 + 547 NumProvinces
 + 575 DistCandies 
++ 617 MergeTwoBT
++ 637 AverageLevelsBT
 + 701 InsertBST
-+ 746 MinCostClimbingStairs 
++ 746 MinCostClimbingStairs
 + 775 LocalGlobalInversions
 + 783 MinDistBST
 + 797 AllPathsS2T
-+ 852 PeakIndexMountainArray 
-+ 938 RangeSumBST 
-+ 997 TownJudge 
-+ 1047 RemAdjacentDupsString 
++ 852 PeakIndexMountainArray
++ 938 RangeSumBST
++ 997 TownJudge
++ 1047 RemAdjacentDupsString
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
