@@ -9,7 +9,7 @@
 + 21 MergeSortedLists
 + 26 RemoveDuplicates
 + 27 RemoveElement
-+ 32 LongestValidParentheses
++ 32 LongestValidParentheses (H)
 + 35 SearchInsertPosition
 + 46 Permutations
 + 48 RotateImage
@@ -82,6 +82,7 @@
 + 342 PowOf4 
 + 344 ReverseString
 + 349 IntersectionOfArrays
++ 350 IntersectionOfArrays2
 + 367 ValidPerfectSquare
 + 371 TwoIntSum
 + 374 GuessNumber
@@ -89,6 +90,7 @@
 + 383 RansomNote
 + 387 FirstUniqueCharacter
 + 389 FindDifference
++ 392_IsSubsequence
 + 409 LongestPalindrome
 + 412 FizzBuzz
 + 414 ThirdMaximumNumber
@@ -96,8 +98,11 @@
 + 442 FindAllDups
 + 455 AssignCookies
 + 461 HammingDistance
++ 463 IslandPerimeter
 + 475 Heaters
++ 476 NumberComplement
 + 485 MaxConsecutive1
++ 496 NextGreaterElement
 + 507 PerfectNumber
 + 509 FibonacciNumber
 + 518 CoinChange2
@@ -107,8 +112,11 @@
 + 540 SingleElementSortedArr
 + 543 BSTDiameter
 + 547 NumProvinces
++ 563 BinaryTreeTilt
++ 565 ArrayNesting
 + 575 DistCandies 
 + 617 MergeTwoBT
++ 628 MaxProduct3Numbers
 + 637 AverageLevelsBT
 + 701 InsertBST
 + 746 MinCostClimbingStairs
@@ -122,6 +130,7 @@
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
++ 1347 MinStepsAnagram
 + 1374 CharactersOddCounts
 + 1394 LuckyIntegerArray
 + 1431 GreatestNumberCandies
@@ -158,5 +167,6 @@
 + 1844 ReplaceDigitsChar
 + 1859 SortSentence
 + 1887 RedOps
++ 1913 MaxProductPairs
 + 1920 BuildArrayPermutation
 + 1929 ConcatArray
