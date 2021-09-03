@@ -24,6 +24,7 @@
 + 72 EditDistance (H)
 + 75 SortColors
 + 83 RemoveDupSortedList
++ 88 MergeSortedArrays
 + 94 BSTInorder
 + 98 ValidateBST
 + 100 SameTree
@@ -38,6 +39,7 @@
 + 112 PathSum
 + 121 BuySellStock
 + 122 BuySellStock2
++ 125 ValidPalindrome
 + 136 SingleNumber
 + 141 LLCycle
 + 142 LLCycle2
@@ -64,6 +66,7 @@
 + 228 SummaryRanges
 + 230 KSmallestBST 
 + 231 PowOf2
++ 234 PalindromeLL
 + 235 LCAOfBST
 + 237 DelNodeLL
 + 242 ValidAnagram
@@ -90,7 +93,7 @@
 + 383 RansomNote
 + 387 FirstUniqueCharacter
 + 389 FindDifference
-+ 392_IsSubsequence
++ 392 IsSubsequence
 + 409 LongestPalindrome
 + 412 FizzBuzz
 + 414 ThirdMaximumNumber
@@ -118,24 +121,42 @@
 + 617 MergeTwoBT
 + 628 MaxProduct3Numbers
 + 637 AverageLevelsBT
++ 657 RobotOrigin
++ 671_2MinBT.cpp
++ 682 BaseballGame
++ 697 ArrayDegree
++ 700 SearchBST
 + 701 InsertBST
++ 704 BinarySearch
++ 709 ToLower
++ 724 PivotIndex
++ 744_SmallestLetterTarget
 + 746 MinCostClimbingStairs
++ 771 Jewels&Stones
 + 775 LocalGlobalInversions
 + 783 MinDistBST
 + 797 AllPathsS2T
++ 844 BackspaceCompare
 + 852 PeakIndexMountainArray
++ 860 LemonadeChange
++ 868 BinaryGap
++ 876 LLMiddle
 + 938 RangeSumBST
 + 997 TownJudge
 + 1047 RemAdjacentDupsString
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
++ 1323_69Number.cpp
++ 1342_Steps2Zero.cpp
 + 1347 MinStepsAnagram
++ 1365_SmallerCount.cpp
 + 1374 CharactersOddCounts
 + 1394 LuckyIntegerArray
 + 1431 GreatestNumberCandies
 + 1436 DestinationCity
 + 1446 ConsecutiveCharacters
++ 1460 ReverseSubArrays
 + 1464 MaxiumumProductofTwoElements
 + 1480 RunningSum1D 
 + 1486 XORArray
