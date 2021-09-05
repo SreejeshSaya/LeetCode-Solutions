@@ -13,6 +13,7 @@
 + 35 SearchInsertPosition
 + 46 Permutations
 + 48 RotateImage
++ 49 GroupAnagrams
 + 53 MaxSubarray
 + 56 MergeIntervals
 + 58 LastWordLength
@@ -40,6 +41,8 @@
 + 121 BuySellStock
 + 122 BuySellStock2
 + 125 ValidPalindrome
++ 128 LongestConsecutiveSeq
++ 129 SumRoot2Leaf
 + 136 SingleNumber
 + 141 LLCycle
 + 142 LLCycle2
@@ -54,6 +57,8 @@
 + 172 FactTrailZeroes
 + 190 ReverseBits
 + 191 Num1Bits
++ 198 HouseRobber
++ 199 BTRightView
 + 200 IslandNumber
 + 202 HappyNumber
 + 203 RemLinkedListElems
@@ -69,6 +74,7 @@
 + 234 PalindromeLL
 + 235 LCAOfBST
 + 237 DelNodeLL
++ 238 ProductExceptSelf
 + 242 ValidAnagram
 + 257 BTPaths
 + 258 AddDigits
@@ -122,7 +128,7 @@
 + 628 MaxProduct3Numbers
 + 637 AverageLevelsBT
 + 657 RobotOrigin
-+ 671_2MinBT.cpp
++ 671 2MinBT
 + 682 BaseballGame
 + 697 ArrayDegree
 + 700 SearchBST
@@ -130,7 +136,7 @@
 + 704 BinarySearch
 + 709 ToLower
 + 724 PivotIndex
-+ 744_SmallestLetterTarget
++ 744 SmallestLetterTarget
 + 746 MinCostClimbingStairs
 + 771 Jewels&Stones
 + 775 LocalGlobalInversions
@@ -147,10 +153,10 @@
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1304 NSum0
-+ 1323_69Number.cpp
-+ 1342_Steps2Zero.cpp
++ 1323 69Number
++ 1342 Steps2Zero
 + 1347 MinStepsAnagram
-+ 1365_SmallerCount.cpp
++ 1365 SmallerCount
 + 1374 CharactersOddCounts
 + 1394 LuckyIntegerArray
 + 1431 GreatestNumberCandies
