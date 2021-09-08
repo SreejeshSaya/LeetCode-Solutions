@@ -103,6 +103,7 @@
 + 409 LongestPalindrome
 + 412 FizzBuzz
 + 414 ThirdMaximumNumber
++ 429 NAryLevelOrder
 + 441 ArrangingCoins
 + 442 FindAllDups
 + 455 AssignCookies
@@ -127,6 +128,7 @@
 + 617 MergeTwoBT
 + 628 MaxProduct3Numbers
 + 637 AverageLevelsBT
++ 654 MaxBT
 + 657 RobotOrigin
 + 671 2MinBT
 + 682 BaseballGame
@@ -149,15 +151,19 @@
 + 876 LLMiddle
 + 938 RangeSumBST
 + 997 TownJudge
++ 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
 + 1217 MinCostChips
 + 1252 CellOddValues
++ 1282 GroupPeople
++ 1302 DeepestLeavesSum
 + 1304 NSum0
 + 1323 69Number
 + 1342 Steps2Zero
 + 1347 MinStepsAnagram
 + 1365 SmallerCount
 + 1374 CharactersOddCounts
++ 1379 FindNodeInClone
 + 1394 LuckyIntegerArray
 + 1431 GreatestNumberCandies
 + 1436 DestinationCity
@@ -171,8 +177,10 @@
 + 1518 WaterBottles
 + 1544 MakeStrGreat
 + 1550 2ConsecutiveOdds
++ 1551 MinOpsArrayEqual
 + 1561 MaxCoins
 + 1572 MatrixDiagonalSum
++ 1609 EvenOddTree
 + 1619 MeanArrayRemElem
 + 1624 LargSubStr
 + 1630 ArithmeticSubarray
