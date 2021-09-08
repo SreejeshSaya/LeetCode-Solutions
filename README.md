@@ -10,6 +10,7 @@
 + 26 RemoveDuplicates
 + 27 RemoveElement
 + 32 LongestValidParentheses (H)
++ 33 SearchInRotatedSortedArray
 + 35 SearchInsertPosition
 + 46 Permutations
 + 48 RotateImage
@@ -24,6 +25,8 @@
 + 70 ClimbingStairs
 + 72 EditDistance (H)
 + 75 SortColors
++ 78 Subsets
++ 82 RemoveDupSortedList2
 + 83 RemoveDupSortedList
 + 88 MergeSortedArrays
 + 94 BSTInorder
@@ -33,11 +36,15 @@
 + 102 BSTLevelOrder
 + 103 BSTZigZagOrder
 + 104 BSTMaxDepth
++ 105 BTFromInorder&Preorder
++ 106 BTFromInorder&Postorder
 + 107 BSTLevelOrder2
 + 108 SortedArr2BST
++ 109 SortedList2BST
 + 110 BSTBalanced
 + 111 BSTMinDepth
 + 112 PathSum
++ 113 PathSum2
 + 121 BuySellStock
 + 122 BuySellStock2
 + 125 ValidPalindrome
@@ -48,6 +55,7 @@
 + 142 LLCycle2
 + 144 BSTPreOrder
 + 145 BSTPostOrder
++ 153 MinInRotatedSortedArray
 + 160 Intersection2LL
 + 162 FindPeakElem
 + 167 TwoSum2
@@ -55,6 +63,7 @@
 + 169 MajorityElem
 + 171 ExcelTitle2Num
 + 172 FactTrailZeroes
++ 179 LargestNumber
 + 190 ReverseBits
 + 191 Num1Bits
 + 198 HouseRobber
@@ -151,6 +160,7 @@
 + 876 LLMiddle
 + 938 RangeSumBST
 + 997 TownJudge
++ 1008 BSTFromPreorder
 + 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
 + 1217 MinCostChips
