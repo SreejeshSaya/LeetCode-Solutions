@@ -13,10 +13,12 @@
 + 32 LongestValidParentheses (H)
 + 33 SearchInRotatedSortedArray
 + 35 SearchInsertPosition
++ 45 JumpGame2
 + 46 Permutations
 + 48 RotateImage
 + 49 GroupAnagrams
 + 53 MaxSubarray
++ 55 JumpGame
 + 56 MergeIntervals
 + 58 LastWordLength
 + 62 UniquePaths
@@ -26,6 +28,7 @@
 + 70 ClimbingStairs
 + 72 EditDistance (H)
 + 75 SortColors
++ 77 Combinations
 + 78 Subsets
 + 82 RemoveDupSortedList2
 + 83 RemoveDupSortedList
@@ -171,6 +174,7 @@
 + 1008 BSTFromPreorder
 + 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
++ 1143 LongestCommonSubsequence 
 + 1217 MinCostChips
 + 1252 CellOddValues
 + 1282 GroupPeople
