@@ -1,5 +1,6 @@
 # LeetCode-Solutions
 
+
 + 1 TwoSum
 + 2 AddTwoNumbers
 + 7 ReverseInteger
@@ -115,6 +116,7 @@
 + 429 NAryLevelOrder
 + 441 ArrangingCoins
 + 442 FindAllDups
++ 451 SortCharFreq
 + 455 AssignCookies
 + 461 HammingDistance
 + 463 IslandPerimeter
@@ -131,6 +133,7 @@
 + 540 SingleElementSortedArr
 + 543 BSTDiameter
 + 547 NumProvinces
++ 560 SubarraySumK
 + 563 BinaryTreeTilt
 + 565 ArrayNesting
 + 575 DistCandies 
@@ -139,8 +142,10 @@
 + 637 AverageLevelsBT
 + 654 MaxBT
 + 657 RobotOrigin
++ 669 TrimBST
 + 671 2MinBT
 + 682 BaseballGame
++ 695 MaxAreaIslands
 + 697 ArrayDegree
 + 700 SearchBST
 + 701 InsertBST
@@ -154,10 +159,13 @@
 + 783 MinDistBST
 + 797 AllPathsS2T
 + 844 BackspaceCompare
++ 848 ShiftingLetters
 + 852 PeakIndexMountainArray
 + 860 LemonadeChange
 + 868 BinaryGap
++ 875 KokoEatingBananas
 + 876 LLMiddle
++ 921 MinAddParenthesesValid
 + 938 RangeSumBST
 + 997 TownJudge
 + 1008 BSTFromPreorder
@@ -202,6 +210,7 @@
 + 1725 RectanglesLargestSquare
 + 1732 HighestAltitude
 + 1742 MaxBallsInBox
++ 1743 RestoreArray
 + 1748 SumUniqueElems
 + 1758 AlternatingBinary
 + 1769 MinOpsAllBallsEachBox
