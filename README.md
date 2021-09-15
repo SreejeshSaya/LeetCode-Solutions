@@ -6,6 +6,7 @@
 + 7 ReverseInteger
 + 9 PalindromNumber
 + 14 LongestCommonPrefix
++ 19 RemoveNthFromEndLL
 + 20 ValidParentheses
 + 21 MergeSortedLists
 + 26 RemoveDuplicates
@@ -54,12 +55,15 @@
 + 125 ValidPalindrome
 + 128 LongestConsecutiveSeq
 + 129 SumRoot2Leaf
++ 134 GasStation
 + 136 SingleNumber
 + 141 LLCycle
 + 142 LLCycle2
 + 144 BSTPreOrder
 + 145 BSTPostOrder
++ 152 MaxProdSubarray
 + 153 MinInRotatedSortedArray
++ 155 MinStack
 + 160 Intersection2LL
 + 162 FindPeakElem
 + 167 TwoSum2
@@ -68,6 +72,7 @@
 + 171 ExcelTitle2Num
 + 172 FactTrailZeroes
 + 179 LargestNumber
++ 189 RotateArray
 + 190 ReverseBits
 + 191 Num1Bits
 + 198 HouseRobber
@@ -77,9 +82,11 @@
 + 203 RemLinkedListElems
 + 204 CountPrimes
 + 206 RevLL
++ 213 HouseRobber2
 + 215 KthLargestInArray 
 + 217 ContainsDup
 + 219 ContainsDup2
++ 221 MaximalSquare
 + 226 InvBST
 + 228 SummaryRanges
 + 230 KSmallestBST 
@@ -100,6 +107,7 @@
 + 319 BulbSwitcher
 + 322 CoinChange
 + 326 PowOf3
++ 328 OddEvenList
 + 338 CountingBits
 + 342 PowOf4 
 + 344 ReverseString
@@ -168,10 +176,14 @@
 + 868 BinaryGap
 + 875 KokoEatingBananas
 + 876 LLMiddle
++ 877 StoneGame
 + 921 MinAddParenthesesValid
 + 938 RangeSumBST
 + 997 TownJudge
 + 1008 BSTFromPreorder
++ 1011 CapacityShipWithinDDays
++ 1019 NextGreaterNodeInLL
++ 1029 2CityScheduling
 + 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
 + 1143 LongestCommonSubsequence 
