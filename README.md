@@ -5,14 +5,17 @@
 + 2 AddTwoNumbers
 + 7 ReverseInteger
 + 9 PalindromNumber
++ 11 ContainerWithMostWater
 + 14 LongestCommonPrefix
 + 19 RemoveNthFromEndLL
 + 20 ValidParentheses
 + 21 MergeSortedLists
++ 24 SwapNodesInPairs
 + 26 RemoveDuplicates
 + 27 RemoveElement
 + 32 LongestValidParentheses (H)
 + 33 SearchInRotatedSortedArray
++ 34 FindFirst&LastPosOfElementInArray
 + 35 SearchInsertPosition
 + 45 JumpGame2
 + 46 Permutations
@@ -57,6 +60,7 @@
 + 129 SumRoot2Leaf
 + 134 GasStation
 + 136 SingleNumber
++ 137 SingleNumber2
 + 141 LLCycle
 + 142 LLCycle2
 + 144 BSTPreOrder
@@ -169,6 +173,7 @@
 + 775 LocalGlobalInversions
 + 783 MinDistBST
 + 797 AllPathsS2T
++ 807 MaxIncreaseToKeepCitySkyline
 + 844 BackspaceCompare
 + 848 ShiftingLetters
 + 852 PeakIndexMountainArray
@@ -187,11 +192,16 @@
 + 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
 + 1143 LongestCommonSubsequence 
++ 1161 MaxLevelSumBT
++ 1190 ReverseSubstrBetweenBrackets
 + 1217 MinCostChips
 + 1252 CellOddValues
++ 1254 NumClosedIslands
 + 1282 GroupPeople
 + 1302 DeepestLeavesSum
 + 1304 NSum0
++ 1305 AllElementsOf2BST
++ 1315 SumNodesWithEvenGP
 + 1323 69Number
 + 1342 Steps2Zero
 + 1347 MinStepsAnagram
