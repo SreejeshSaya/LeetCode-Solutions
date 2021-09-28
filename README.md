@@ -10,6 +10,7 @@
 + 19 RemoveNthFromEndLL
 + 20 ValidParentheses
 + 21 MergeSortedLists
++ 22_GenerateParentheses.cpp
 + 24 SwapNodesInPairs
 + 26 RemoveDuplicates
 + 27 RemoveElement
@@ -24,6 +25,7 @@
 + 53 MaxSubarray
 + 55 JumpGame
 + 56 MergeIntervals
++ 57 InsertInterval
 + 58 LastWordLength
 + 62 UniquePaths
 + 63 UniquePaths2
@@ -183,6 +185,7 @@
 + 876 LLMiddle
 + 877 StoneGame
 + 921 MinAddParenthesesValid
++ 931 MinFallingPathSum
 + 938 RangeSumBST
 + 997 TownJudge
 + 1008 BSTFromPreorder
@@ -191,6 +194,8 @@
 + 1029 2CityScheduling
 + 1041 RobotBoundedCircle
 + 1047 RemAdjacentDupsString
++ 1094 CarPooling
++ 1109 CorporateFlightBookings
 + 1143 LongestCommonSubsequence 
 + 1161 MaxLevelSumBT
 + 1190 ReverseSubstrBetweenBrackets
@@ -203,6 +208,7 @@
 + 1305 AllElementsOf2BST
 + 1315 SumNodesWithEvenGP
 + 1323 69Number
++ 1338 ReduceArraySizeHalf
 + 1342 Steps2Zero
 + 1347 MinStepsAnagram
 + 1365 SmallerCount
@@ -228,6 +234,7 @@
 + 1619 MeanArrayRemElem
 + 1624 LargSubStr
 + 1630 ArithmeticSubarray
++ 1637 WidestVAreaBetween2Points
 + 1662 2StringEquivalent
 + 1672 RichestCustomerWealth
 + 1688 CountMatchesTournament
@@ -244,6 +251,7 @@
 + 1827 MinOpsArrayInc
 + 1828 PointsInsideCircle
 + 1832 Pangram
++ 1833 MaxIceCreamBars
 + 1844 ReplaceDigitsChar
 + 1859 SortSentence
 + 1887 RedOps
